@@ -7,7 +7,7 @@ import './header.css';
 const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
-      <h1 className="gradient__text">&Sigma; SIGMA Source Tech </h1>
+      <h1 className="gradient__text">&Sigma; SIGMA Source Tech: Open AI Powered FinTech Development</h1>
       <p>Tech consulting and candidate sourcing for top technology and financial firms. 
         Leverage bleeding edge tech for building the future of your company on the web and it's developers. 
         Learn to use/develop tools with the largest AI & ML library ever built today as a engineering team, hiring manager, 
