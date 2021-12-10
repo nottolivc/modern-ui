@@ -7,7 +7,7 @@ import './header.css';
 const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
-      <h1 className="gradient__text">SIGMA Box Tech <span>&#x7B;</span> Services <span>&#x7D;</span></h1>
+      <h1 className="gradient__text">SIGMA Box Tech Services</h1>
       <p>Tech consulting and candidate sourcing for top technology and financial firms. 
         Leverage bleeding edge tech for building the future of your company on the web and it's developers. 
         Learn to use/develop tools with the largest AI & ML library ever built today as a engineering team, hiring manager, 
