@@ -9,12 +9,12 @@ const WhatGPT3 = () => (
     </div>
     <div className="gpt3__whatgpt3-heading">
       <h1 className="gradient__text">Source the best candidates for development & your team. 
-      Unlock the possibilities of the largest AI network today.</h1>
+      Unlock possibilities for developers with open AI today.</h1>
       <p>Explore</p>
     </div>
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Web" text="For beginners or experienced developers, build the future today." />
-      <Feature title="Finance" text="For curious or experienced Traders, optimize your portfolio today." />
+      <Feature title="Web & Data Science" text="For beginners or experienced developers, build the future today." />
+      <Feature title="Finance" text="For curious or experienced professionals, optimize your portfolio, research, and strategy today." />
       <Feature title="Learn More" text="Learn more about free resources for your organization" />
     </div>
   </div>

@@ -12,7 +12,7 @@ const Header = () => (
         Leverage all of the latest bleeding edge tech for building the future of your company on the web and it's developers. 
         Learn to develop tools with the largest AI & ML library ever built today as a engineering team, hiring manager, 
         or entrepreneur across the financial and tech sectors.</p>
-      <a href="services@sigmabox.com"><br /><br /><p>Contact Us for Free Consultation</p></a>
+      <a href="services@sigmabox.com"><br /><br /><p>Contact Us for FREE Consultation</p></a>
       <div className="gpt3__header-content__input">
         <input type="email" placeholder="Your Email Address" />
         <button type="button">Get Started</button>
