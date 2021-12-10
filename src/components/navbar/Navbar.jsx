@@ -9,16 +9,16 @@ const Navbar = () => {
   return (
     <div className="gpt3__navbar">
       <div className="gpt3__navbar-links">
-        <div className="gpt3__navbar-links_logo">
-          {/* <img src={logo} /> */}
-          <h2 style={{ color: 'white' }}>CryptoGraph GPT-3</h2>
-        </div>
+        {/* <div className="gpt3__navbar-links_logo">
+          <img src={logo} /> 
+          <h2 style={{ color: 'white' }}></h2>
+        </div> */}
         <div className="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>
-          <p><a href="#wgpt3">What is GPT3?</a></p>
-          <p><a href="#possibility">Open AI</a></p>
-          <p><a href="#features">Applications</a></p>
-          <p><a href="#blog">Library</a></p>
+          <p><a href="#wgpt3">Web Development</a></p>
+          <p><a href="#possibility">Sourcing</a></p>
+          <p><a href="#features">Other Services</a></p>
+          <p><a href="#blog">Contact Us</a></p>
         </div>
       </div>
       <div className="gpt3__navbar-sign">
@@ -33,10 +33,10 @@ const Navbar = () => {
         <div className="gpt3__navbar-menu_container scale-up-center">
           <div className="gpt3__navbar-menu_container-links">
             <p><a href="#home">Home</a></p>
-            <p><a href="#wgpt3">What is GPT3?</a></p>
-            <p><a href="#possibility">Open AI</a></p>
-            <p><a href="#features">Applications</a></p>
-            <p><a href="#blog">Library</a></p>
+            <p><a href="#wgpt3">Web Development</a></p>
+            <p><a href="#possibility">Sourcing</a></p>
+            <p><a href="#features">Other Services</a></p>
+            <p><a href="#blog">Contact Us</a></p>
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
             <p>Sign in</p>

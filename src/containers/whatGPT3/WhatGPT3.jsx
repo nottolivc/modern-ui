@@ -5,16 +5,17 @@ import './whatGPT3.css';
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="What is GPT-3" text="The Largest AI Ever Built. Open for you now to leverage today." />
+      <Feature title="What is Sigma Box?" text="Build the highest productivity teams and leverage the largest Open AI network ever built. " />
     </div>
     <div className="gpt3__whatgpt3-heading">
-      <h1 className="gradient__text">Unlock the possibilities of the largest AI network today and get started building the future of the Web.</h1>
+      <h1 className="gradient__text">Source the best candidates for development & your team. 
+      Unlock the possibilities of the largest AI network today.</h1>
       <p>Explore</p>
     </div>
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Web 3.0" text="For beginners or experienced developers, build the future today." />
-      <Feature title="Crypto Integration" text="For curious or experienced Traders, optimize your portfolio today." />
-      <Feature title="Learn More" text="Learn more about resources and libraries to optimize and/or get started" />
+      <Feature title="Web" text="For beginners or experienced developers, build the future today." />
+      <Feature title="Finance" text="For curious or experienced Traders, optimize your portfolio today." />
+      <Feature title="Learn More" text="Learn more about free resources for your organization" />
     </div>
   </div>
 );
