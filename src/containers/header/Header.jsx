@@ -9,9 +9,9 @@ const Header = () => (
     <div className="gpt3__header-content">
       <h1 className="gradient__text">SIGMA Box Tech Services</h1>
       <p>Tech consulting and candidate sourcing for top technology and financial firms. 
-        Leverage all of the latest bleeding edge tech for building the future of your company on the web and it's developers. 
-        Learn to develop tools with the largest AI & ML library ever built today as a engineering team, hiring manager, 
-        or entrepreneur across the financial and tech sectors.</p>
+        Leverage bleeding edge tech for building the future of your company on the web and it's developers. 
+        Learn to use/develop tools with the largest AI & ML library ever built today as a engineering team, hiring manager, 
+        or entrepreneur across sectors.</p>
       <a href="services@sigmabox.com"><br /><br /><p>Contact Us for FREE Consultation</p></a>
       <div className="gpt3__header-content__input">
         <input type="email" placeholder="Your Email Address" />
