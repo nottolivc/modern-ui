@@ -11,7 +11,7 @@ const Header = () => (
       <p>Tech consulting and candidate sourcing for top technology and financial firms. 
         Leverage bleeding edge tech for building the future of your company on the web and it's developers. 
         Learn to use/develop tools with the largest AI & ML library ever built today as a engineering team, hiring manager, 
-        or entrepreneur across sectors.</p>
+        or entrepreneur across sectors</p>
       <a href="services@sigmabox.com"><br /><br /><p>Contact Us for FREE Consultation</p></a>
       <div className="gpt3__header-content__input">
         <input type="email" placeholder="Your Email Address" />
@@ -19,7 +19,7 @@ const Header = () => (
       </div>
 
       <div className="gpt3__header-content__people">
-        <p style={{'color': '#444'}}>Source from over 100,000 data points in the our propietary database.</p>
+        <p style={{'color': '#444'}}>Source from over 100,000 data points in the our propietary database</p>
       </div>
     </div>
 

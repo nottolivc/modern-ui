@@ -15,7 +15,7 @@ const Footer = () => (
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
         <img src={gpt3Logo} alt="gpt3_logo" />
-        <p>Open Source <br /></p>
+        <p>Open Source   https://openai.com/blog/gpt-3-apps<br /></p>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
