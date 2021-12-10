@@ -24,7 +24,7 @@ const featuresData = [
 const Features = () => (
   <div className="gpt3__features section__padding" id="features">
     <div className="gpt3__features-heading">
-      <h1 className="gradient__text">Source and hire the top candidates for your team</h1>
+      <h1 className="gradient__text">Data Science and Web Development. Hire top professionals for your team today</h1>
       <p>Get Started</p>
     </div>
     <div className="gpt3__features-container">
