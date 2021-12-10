@@ -6,6 +6,7 @@ import './App.css';
 
 const App = () => (
   <div className="App">
+  <div className="box animate fadeInDownBig seven">
     <div className="gradient__bg">
       <Navbar />
       <Header />
@@ -17,6 +18,7 @@ const App = () => (
     <CTA />
     <Blog />
     <Footer />
+    </div>
   </div>
 );
 
