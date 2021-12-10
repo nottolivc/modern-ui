@@ -5,7 +5,7 @@ import './whatGPT3.css';
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="What is Sigma Box?" 
+      <Feature title="What is Sigma Tech?" 
       text="Build the highest productivity teams and leverage the largest Open AI network ever built. Harness the power of Data and Cloud technology " />
     </div>
     <div className="gpt3__whatgpt3-heading">

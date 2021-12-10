@@ -37,7 +37,7 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-copyright">
-      <p>(c) Sigma Box Tech Services, 2021. All rights reserved.</p>
+      <p>(c) Sigma Tech Services, 2021. All rights reserved.</p>
     </div>
   </div>
 );
