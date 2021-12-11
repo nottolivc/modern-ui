@@ -189,6 +189,9 @@ a {
   .section__margin {
     margin: 4rem;
   }
+  .chat {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 550px) {
@@ -199,4 +202,7 @@ a {
   .section__margin {
     margin: 4rem 2rem;
   }  
+  .chat {
+    display: none;
+  }
 }
