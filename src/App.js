@@ -1,7 +1,7 @@
 import React from 'react';
 import { Footer, Blog, Possibility, Features, WhatGPT3, Header } from './containers';
 import { CTA, Brand, Navbar } from './components';
-
+import CustomChatbot from './CustomChatbot';
 import './App.css';
 
 const App = () => (
@@ -12,6 +12,10 @@ const App = () => (
       <Header />
     </div>
     <Brand />
+    <div className="chat">
+    <p style={{color: '#444'}}>Chatbot for basic info</p>
+    <CustomChatbot />
+    </div>
     <WhatGPT3 />
     <Features />
     <Possibility />
