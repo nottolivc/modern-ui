@@ -8,7 +8,7 @@ const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
       <h1 className="gradient__text">&Sigma;</h1><h1>Sigma Sourcing</h1>
-      <h2 className="gradient__text">Power Your Business with AI, Data & Cloud Technology</h2>
+      <h2 className="gradient__text">Power Your Business with AI</h2>
       <p>Tech consulting and candidate sourcing for top technology and financial firms. 
         Leverage bleeding edge tech for building the future of your company on the web and it's developers. 
         Learn to use/develop tools with the largest AI & ML library ever built today as a engineering team, hiring manager, 
