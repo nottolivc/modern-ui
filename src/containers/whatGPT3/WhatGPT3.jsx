@@ -9,7 +9,7 @@ const WhatGPT3 = () => (
       text="Build the highest productivity teams and leverage the largest Open AI network ever built. Harness the power of Data and Cloud technology " />
     </div>
     <div className="gpt3__whatgpt3-heading">
-      <h1 className="gradient__text">Source the best candidates for development & your team. 
+      <h1 className="gradient__text">Source the best technology for development & your team. 
       Unlock possibilities for developers with open AI today</h1>
       <p>Explore</p>
     </div>
