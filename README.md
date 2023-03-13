@@ -1,3 +1,3 @@
 # modern-ui
-A modern business UI template built in react
+A modern simple business UI template built in react.
 
